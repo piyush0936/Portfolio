@@ -1,0 +1,28 @@
+.Navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgba(128, 128, 128, 0.785);
+  margin-bottom: 32px;
+}
+
+.nav-left p{
+  font-size: 20px;
+  padding: 12px;
+}
+
+.nav-right ul {
+  display: flex;
+  list-style: none;
+  font-size: 20px;
+  padding: 12px;
+}
+
+.nav-right ul li {
+  padding-right: 10px;
+}
+
+.nav-right ul li:hover {
+  font-weight: 800;
+  color: brown
+}

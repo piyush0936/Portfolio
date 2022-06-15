@@ -1,0 +1,59 @@
+.border {
+  border: 2px solid red;
+}
+.AboutMe {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 32px;
+}
+
+.content-left {
+  text-align: center;
+  /* background-color: aquamarine; */
+  width: 50%;
+  margin: auto;
+}
+
+.content-right {
+  /* background-color: blueviolet; */
+  width: 50%;
+  margin: auto;
+}
+
+.profileImg {
+  width: 240px;
+  border: 1px solid yellowgreen;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.AboutMeIcons {
+  font-size: 35px;
+  color: cadetblue;
+  width: 90%;
+  margin: auto;
+}
+
+.heading1,
+.heading2,
+.heading3 {
+  font-size: 30px;
+  font-weight: 600;
+  /* text-align: left; */
+}
+
+.Name {
+  color: rgb(255, 136, 0);
+}
+
+.button1,
+.button2,
+.button3 {
+  font-size: 14px;
+}
+
+.buttonOnTop {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

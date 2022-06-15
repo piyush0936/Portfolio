@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-color: rgba(241, 241, 197, 0.7);
+  /* background-color: #08152b; */
+  /* height: 100vh; */
+  
+}
